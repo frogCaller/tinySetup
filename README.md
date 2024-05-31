@@ -1,5 +1,10 @@
 # tinySetup
-![](Images/tinySetup1.jpg)![](Images/tinySetup2.jpg)![](Images/tinySetup3.jpg)
+
+<div style="display: flex; gap: 10px;">
+    <img src="Images/tinySetup1.jpg" alt="tinySetup1" width="300">
+    <img src="Images/tinySetup2.jpg" alt="tinySetup2" width="300">
+    <img src="Images/tinySetup3.jpg" alt="tinySetup3" width="300">
+</div>
 
 
 # Materials
@@ -7,13 +12,13 @@
 (x1) [Micro SD Cards](https://amzn.to/454betk)<br />
 (x1) [Waveshare 3.5-in LCD display](https://amzn.to/4bLtsCz)<br />
 (x1) [GPIO extender](https://amzn.to/4bGfj9M)<br />
-(x1) [Battery pack](https://amzn.to/3Uooea9)<br />
+(x1) [Battery pack](https://amzn.to/3R8jWkA)<br />
 <br />
 _(Amazon affiliate links)_<br />
 ## **Installations**
 
 1. **OS install:**
-   - Raspberry Pi Zero 2 WH - Pi OS Lite 
+   - Raspberry Pi Zero 2 WH - Pi OS Lite 32-bit
 
 2. Install 3.5-inch display Driver 
     ```
