@@ -1,5 +1,5 @@
 # tinySetup
-![](images/tinysetup1.jpg)![](images/tinysetup2.jpg)![](images/tinysetup3.jpg)
+![](Images/tinySetup1.jpg)![](Images/tinySetup2.jpg)![](Images/tinySetup3.jpg)
 
 
 # Materials
