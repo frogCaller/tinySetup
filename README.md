@@ -1,7 +1,6 @@
 # tinySetup
 
-<div style="display: flex; gap: 10px;">
-    <img src="Images/tinySetup1.jpg" alt="tinySetup1" width="200">
+<div style="display: flex; gap: 10px;">   
     <img src="Images/tinySetup2.jpg" alt="tinySetup2" width="200">
     <img src="Images/tinySetup3.jpg" alt="tinySetup3" width="200">
 </div>
