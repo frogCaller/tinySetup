@@ -7,11 +7,11 @@
 
 
 # Materials
-(x1) [Raspberry Pi Zero 2 WH](https://amzn.to/4bwP5q9)<br />
-(x1) [Micro SD Cards](https://amzn.to/4erXgWD)<br />
-(x1) [Waveshare 3.5-in LCD display](https://amzn.to/4bLtsCz)<br />
-(x1) [GPIO extender](https://amzn.to/4bGfj9M)<br />
-(x1) [Battery pack](https://amzn.to/3R8jWkA)<br />
+* [Raspberry Pi Zero 2 WH](https://amzn.to/4bwP5q9)<br />
+* [Micro SD Cards](https://amzn.to/4erXgWD)<br />
+* [Waveshare 3.5-in LCD display](https://amzn.to/4bLtsCz)<br />
+* [GPIO extender](https://amzn.to/4bGfj9M)<br />
+* [Battery pack](https://amzn.to/3R8jWkA)<br />
 <br />
 _(Amazon affiliate links)_<br />
 ## **Installations**
