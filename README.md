@@ -13,8 +13,9 @@
 * [GPIO extender](https://amzn.to/4bGfj9M)<br />
 * [Battery pack](https://amzn.to/3R8jWkA)<br />
 <br />
-_(Amazon affiliate links)_<br />
-## **Installations**
+(Amazon affiliate links)<br />
+
+# Installations
 
 1. **OS install:**
    - Raspberry Pi Zero 2 WH - Pi OS Lite 32-bit
